@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cc36a27-ced7-4e68-ab9b-5f1f3de3899e" name="Default Changelist" comment="" />
+    <list default="true" id="9cc36a27-ced7-4e68-ab9b-5f1f3de3899e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/CalculatorInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/CalculatorInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/TestCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/TestCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/TestCalculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/TestCalculator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-TestCalculator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-TestCalculator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CalculatorInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CalculatorInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCalculator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +36,16 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -20,7 +54,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YQyh8lIKxLJQxHnVrq0ZGQWxMf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,11 +66,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Gradle.TestCalculator">
+  <component name="RunManager" selected="Gradle.TestCalculator.givenToCheckModeOfTwoNumbers">
     <configuration name="TestCalculator" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -53,12 +92,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="TestCalculator.givenToCheckAdditionOfTwoNumbers" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="TestCalculator.givenToCheckDivisionOfTwoNumbers" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;TestCalculator.givenToCheckAdditionOfTwoNumbers&quot;" />
+        <option name="scriptParameters" value="--tests &quot;TestCalculator.givenToCheckDivisionOfTwoNumbers&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -73,12 +112,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="TestCalculator.givenToCheckDivisionOfTwoNumbers" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="TestCalculator.givenToCheckModeOfTwoNumbers" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;TestCalculator.givenToCheckDivisionOfTwoNumbers&quot;" />
+        <option name="scriptParameters" value="--tests &quot;TestCalculator.givenToCheckModeOfTwoNumbers&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -135,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.TestCalculator.givenToCheckModeOfTwoNumbers" />
         <item itemvalue="Gradle.TestCalculator" />
         <item itemvalue="Gradle.TestCalculator.givenToCheckDivisionOfTwoNumbers" />
         <item itemvalue="Gradle.TestCalculator.givenToCheckMultiplicationOfTwoNumbers" />
         <item itemvalue="Gradle.TestCalculator.givenToCheckSubstractionOfTwoNumbers" />
-        <item itemvalue="Gradle.TestCalculator.givenToCheckAdditionOfTwoNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -161,26 +200,26 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="486" y="168" key="#Project_Structure/0.23.1680.960@0.23.1680.960" timestamp="1582890185944" />
-    <state x="699" y="213" key="#com.intellij.ide.util.MemberChooser" timestamp="1582890584554">
+    <state x="699" y="213" key="#com.intellij.ide.util.MemberChooser" timestamp="1582894384300">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="699" y="213" key="#com.intellij.ide.util.MemberChooser/0.23.1680.960@0.23.1680.960" timestamp="1582890584554" />
-    <state width="1167" height="256" key="GridCell.Tab.0.bottom" timestamp="1582893655731">
+    <state x="699" y="213" key="#com.intellij.ide.util.MemberChooser/0.23.1680.960@0.23.1680.960" timestamp="1582894384300" />
+    <state width="925" height="256" key="GridCell.Tab.0.bottom" timestamp="1582894453973">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1167" height="256" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1582893655731" />
-    <state width="1167" height="256" key="GridCell.Tab.0.center" timestamp="1582893655730">
+    <state width="925" height="256" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1582894453973" />
+    <state width="925" height="256" key="GridCell.Tab.0.center" timestamp="1582894453972">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1167" height="256" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1582893655730" />
-    <state width="1167" height="256" key="GridCell.Tab.0.left" timestamp="1582893655729">
+    <state width="925" height="256" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1582894453972" />
+    <state width="925" height="256" key="GridCell.Tab.0.left" timestamp="1582894453972">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1167" height="256" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1582893655729" />
-    <state width="1167" height="256" key="GridCell.Tab.0.right" timestamp="1582893655730">
+    <state width="925" height="256" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1582894453972" />
+    <state width="925" height="256" key="GridCell.Tab.0.right" timestamp="1582894453973">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state width="1167" height="256" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1582893655730" />
+    <state width="925" height="256" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1582894453973" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

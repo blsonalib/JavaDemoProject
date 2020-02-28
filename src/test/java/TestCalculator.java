@@ -29,4 +29,11 @@ public class TestCalculator {
         int resultData = calculator.Division(20,10);
         Assert.assertEquals(2,resultData);
     }
+
+    @Test
+    public void givenToCheckModeOfTwoNumbers() {
+        Calculator calculator = new Calculator();
+        int resultData = calculator.mode(20,10);
+        Assert.assertEquals(0,resultData);
+    }
 }
